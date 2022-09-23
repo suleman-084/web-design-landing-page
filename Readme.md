@@ -26,4 +26,4 @@
 
 - How to use `CSS linear-gradient()` function
 
-<!-- ## [Live-link](https://web-desingn-landingpage.netlify.app/) of the project -->
+## [Live-link](https://webdesign-landing-page08.netlify.app/) of the project
